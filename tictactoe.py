@@ -9,7 +9,7 @@ from constants import *
 #PYGAME SETUP
 pygame.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("TIC TAC TOE AI")
+pygame.display.set_caption("AI Tic Tac Toe")
 screen.fill(BG_COLOUR)
 
 class Board:
