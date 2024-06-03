@@ -3,6 +3,7 @@ Tic Tac Toe game using minimax algorithm to create an unbeatable bot.
 
 # Game Instructions
 
+- run tictactoe.py
 - click your chosen square to make a move.
 - press 'g' to change gamemode (pvp or ai)
 - press '0' to change ai level to 0 (random)
