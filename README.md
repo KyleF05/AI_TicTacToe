@@ -1,5 +1,5 @@
 # AI_TicTacToe
-Tic Tac Toe game using minimax algorithm to create unbeatable bot.
+Tic Tac Toe game using minimax algorithm to create an unbeatable bot.
 
 # Game Instructions
 
